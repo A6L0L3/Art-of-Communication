@@ -1,5 +1,7 @@
 # 沟通的艺术（**`Art-of-Communication`**）
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/deed.zh)
+
 > 一个把「书、影、话术」拆成可执行动作的开源笔记库。
 > 50 篇结构化笔记 · 546 个板块 · 2515 个小节 · 约 108 万字 · 全中文原创整理。
 
