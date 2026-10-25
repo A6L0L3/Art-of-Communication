@@ -1,6 +1,6 @@
 # 沟通的艺术（**`Art-of-Communication`**）
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/deed.zh)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
 > 一个把「书、影、话术」拆成可执行动作的开源笔记库。
 > 50 篇结构化笔记 · 546 个板块 · 2515 个小节 · 约 108 万字 · 全中文原创整理。
@@ -17,7 +17,7 @@ Art-of-Communication/
 ├── 贵气感养成系统手册.md  10 板块 ·  90 小节
 ├── 路过你的全世界.md      14 板块 · 168 小节
 ├── 酒桌摇骰子必应攻略.md  10 板块 ·  85 小节
-├── LICENSE          CC BY 4.0
+├── LICENSE          CC BY-NC-SA 4.0
 └── README.md
 ```
 
@@ -72,13 +72,14 @@ Art-of-Communication/
 - 内容仅供学习与自我训练参考，**不构成心理诊断、医疗建议、婚姻/情感决定依据或任何投资建议**。
 - 涉及他人行为解读的部分属于沟通视角而非事实判定；**识别不了真实意图，就不要替对方下结论**。
 - 原书与原片的著作权、观点、案例归原作者与权利人所有；本仓库仅对**整理汇编成果**采用下述协议。
+- 需说明的是：本仓库全部文件由公开或原始资料收集而来，并经 AI 工具重新归纳、整理与结构化；整体格式与大纲参考了[「庚戊学堂」](https://academy.gengxutang.cn/learn)的学习模块组织方式，并在此基础上增补了 README 头部板块。
 - 二创请注明出处，商业使用前请自行确认合规。
 
 ## 📜 协议摘要
 
-> 本仓库整理内容采用 **CC BY 4.0（知识共享署名 4.0 国际许可协议）**
-> 协议摘要：您可以自由分享、改编本仓库整理的资料；分发、二次加工时，**必须标注来源**。所引原著、影片、工具书内容的著作权归原作者与权利人所有，协议仅适用于本仓库的整理汇编成果。
+> 本仓库整理内容采用 **CC BY-NC-SA 4.0（知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可协议）**。
+> 您可以自由分享、改编本仓库整理的资料；须**标注来源（BY）**、**不得用于商业目的（NC）**、改编作品须以**相同协议（SA）**分发。所引原著、影片、工具书内容的著作权归原作者与权利人所有，协议仅适用于本仓库的整理汇编成果。
 
 ## 📜 完整协议
 
-[CC BY 4.0 知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/deed.zh) · 全文见仓库根目录 [LICENSE](LICENSE)
+[CC BY-NC-SA 4.0 许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) · 全文见仓库根目录 [LICENSE](LICENSE)
